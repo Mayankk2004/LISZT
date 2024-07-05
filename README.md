@@ -1,4 +1,4 @@
-#**Liszt**
+**Liszt**
 This website is aimed at people to create and maintain lists publicly about various things (like fav. movies, games, books, top animes, etc), which they can share on their social pages so strangers can know what that person likes.
 **
 How to run**
